@@ -1,0 +1,68 @@
+.footer-container{
+  margin: 0;
+  padding: 0;
+}
+.footer-wrapper{
+  margin: 0;
+  padding: 0;
+}
+main > .section {
+  margin: 0;
+}
+main > .section > div {
+  padding: 0;
+  max-width: inherit;
+}
+.footer{
+  background-color: #1f1f1f;
+   color: #ffffff;
+   font-size: 12px;
+}
+p strong{
+  font-size: 14px;
+}  
+.row1{
+  display: flex;
+    gap: 5%;
+    padding: 40px 20px;
+}
+.row2
+{
+  background-color: #000000; 
+  padding: 32px 40px;
+  text-align: center;
+
+}
+.row2 a:any-link{
+  color: #ffffff;
+  padding: 12px;
+}
+a.button:any-link{
+  margin: 0;
+  background-color: transparent;
+  display: inline;
+  padding: 0;
+}
+.button-container{
+  margin-top: 1.2em;
+}
+.button-container:hover{
+  text-decoration: underline;
+}
+.row1 picture img{
+  width: 57px;
+}
+.row1 > div:last-child .button-container {
+  margin: 25px 0;
+  padding: 2% 4%;
+  border: 2px black solid;
+  border-radius: 5px;
+  background-color: #ffffff; 
+  text-align: center;
+}
+.row1 > div:last-child {
+  width: 33%;
+}
+.row1 > div:last-child .button-container a {
+  color: #000000;
+}
