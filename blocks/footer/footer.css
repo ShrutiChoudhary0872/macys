@@ -51,10 +51,11 @@ a.button:any-link{
 }
 .row1 picture img{
   width: 57px;
+  margin: 30px 0;
 }
 .row1 > div:last-child .button-container {
   margin: 25px 0;
-  padding: 2% 4%;
+  padding: 3% 4%;
   border: 2px black solid;
   border-radius: 5px;
   background-color: #ffffff; 
@@ -65,4 +66,6 @@ a.button:any-link{
 }
 .row1 > div:last-child .button-container a {
   color: #000000;
+  font-size: 15px;
+  font-weight: bolder;
 }

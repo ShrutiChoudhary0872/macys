@@ -1,0 +1,12 @@
+h2 strong{
+    font-size: 25px;
+}
+p{
+    font-size: 12px;
+}
+a{
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
